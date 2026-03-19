@@ -19,12 +19,13 @@ A modern one-page website template built with React, Tailwind CSS and Vite.
 
 ## Screenshot
 
-Coming soon...
+⏳ Coming soon...
 
 Demo link : ```Coming soon...```
 
 ## Installation
 
 ```bash
+git pull https://github.com/Riskooooo/react-tailwind-landing-template.git
 npm install
 npm run dev
